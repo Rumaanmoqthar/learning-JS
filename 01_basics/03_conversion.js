@@ -13,9 +13,18 @@
 let isLoggedIn = "rumaan "
 
 let booleanIsLoggedIn = Boolean(isLoggedIn)
-console.log(booleanIsLoggedIn);
+//console.log(booleanIsLoggedIn);
 //"" => False
 //"rumaan" => true
+
+//************************************ */
+
+// strings
+
+let str1 = "rumaan"
+let str2 = " moqthar"
+str3 =  str1 + str2
+console.log(str3);
 
 
 
